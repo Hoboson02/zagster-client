@@ -1,1 +1,9 @@
-alert("I Have Spoken")
+alert("You are my guest and I am therefore in your service")
+$(updateview)
+//I am honored, but I have worked a lifetime to be free of servitude.
+//Thank you for bringing peace to my valley
+//good luck with the child; may it survive and bring you a handsome reward
+//I have spoken
+function updateView() {
+    alert("I Have Spoken")
+}
