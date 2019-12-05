@@ -13,6 +13,9 @@ body{
     margin-right: auto; 
     border: 3px solid black
 }
+h1  {
+    text-align: center;
+}
 h4 {
     text-align: center;
     margin-left: 175px;
